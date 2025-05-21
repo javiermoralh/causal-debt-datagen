@@ -145,9 +145,9 @@ If you use this dataset generator in your research or applications, please cite:
 
 ```bibtex
 @software{causal_debt_datagen,
-  author = {Your Name},
+  author = {Javier Moral Hernández},
   title = {Causal Debt Dataset Generator},
-  url = {https://github.com/yourusername/causal-debt-datagen},
+  url = {https://github.com/javiermoralh/causal-debt-datagen.git},
   year = {2025},
 }
 ```
